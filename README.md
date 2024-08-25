@@ -8,3 +8,7 @@ You can view the prototype of the Portfolio UI on Behance: <a href="https://www.
 
 Figma Design
 Explore and interact with the design in Figma: <a href="https://www.figma.com/design/rQP0hlvHNwF6sQEVQvKPcn/Untitled?node-id=0-1&t=DT13LQntmbTtOTlg-1">FIGMA LINK</a>
+
+
+## My Figma ID
+ <a href="https://figma.com/@PRIYANSHI1109">Click Here</a>
